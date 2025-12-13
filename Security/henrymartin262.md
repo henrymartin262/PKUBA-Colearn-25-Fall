@@ -513,7 +513,7 @@ func main() {
 
 运行成功后，输出示例如下：
 
-![nipaste_2025-12-13_00-32-0](E:\ctf\blockchain\img\Snipaste_2025-12-13_00-32-02.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img/Snipaste_2025-12-13_00-22-56.png)
 
 **输出解释：**
 
