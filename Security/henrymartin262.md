@@ -281,8 +281,7 @@ func main() {
 ```
 
 运行结果如下图所示：
-
-![nipaste_2025-12-09_00-50-3](E:\ctf\blockchain\img\Snipaste_2025-12-09_00-50-36.png)
+![image](https://github.com/henrymartin262/PKUBA-Colearn-25-Fall/blob/main/img/Snipaste_2025-12-09_00-50-36.png)
 
 关键字段解释理解如下：
 
